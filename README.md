@@ -15,6 +15,15 @@ This project demonstrates API testing using Postman.
 ## API used
 https://reqres.in
 
+##Test cases
+> GET users list
+> GET single user
+> POST create user
+> PUT update user
+> DELETE user
+> GET user not found
+
+
 API_Testing_Proj/
 │
 ├── Collections/
@@ -27,11 +36,6 @@ API_Testing_Proj/
 ├── README.md
 
 
-> GET users list
-> GET single user
-> POST create user
-> PUT update user
-> DELETE user
-> GET user not found
+
 
 
