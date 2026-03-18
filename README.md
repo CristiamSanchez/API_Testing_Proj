@@ -27,4 +27,11 @@ API_Testing_Proj/
 ├── README.md
 
 
+> GET users list
+> GET single user
+> POST create user
+> PUT update user
+> DELETE user
+> GET user not found
+
 
